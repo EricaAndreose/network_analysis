@@ -1,2 +1,2 @@
 # network_analysis
-Project's repository for Network Analysis exam. 
+Project repository for Network Analysis exam dedicated to a urban study of Bologna's road graph. 
